@@ -29,7 +29,7 @@ function addNavigatorLink(name, url) {navigator.innerHTML += `<a href="${url}"> 
 createMobileErrorLayer();
 addNavigatorLink("Home", "index.html");
 addNavigatorLink("Platforms", "platforms.html");
-addNavigatorLink("Learn Commands", "404.html");
+addNavigatorLink("Learn Commands", "learn.html");
 addNavigatorLink("Minecraft", "minecraft.html");
-addNavigatorLink("Hytale", "404.html");
+addNavigatorLink("Hytale", "hytale.html");
 loadXhaelanHeadImage();
